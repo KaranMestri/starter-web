@@ -1,0 +1,9 @@
+you can see I have a clean working directory, which is great.
+
+so, that command unstaged the file 
+
+I do "git status". We have a clean working directory. 
+so, we haven't made any changes yet.
+
+"git log" 
+so, you can see that we have the commit history in reverse chronological order.
