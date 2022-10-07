@@ -7,3 +7,5 @@ so, we haven't made any changes yet.
 
 "git log" 
 so, you can see that we have the commit history in reverse chronological order.
+
+This will just bring up the commits that have happened in the last three days.
