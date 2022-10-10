@@ -9,3 +9,15 @@ so, we haven't made any changes yet.
 so, you can see that we have the commit history in reverse chronological order.
 
 This will just bring up the commits that have happened in the last three days.
+
+If you do that correctly, then you should have the exact same output as above.
+
+And now, if we do a "git status", you can see that we do not have a clean 
+working directory.
+
+however, the file that is here, that is untracked, is a file we don't want tracked.
+
+but I know that eventually I will end up adding that file accidentally.
+
+and Git does provide us an ability to exclude that file. so let's go 
+ahead and do that.
